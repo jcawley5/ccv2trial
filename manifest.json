@@ -2,6 +2,7 @@
     "commerceSuiteVersion": "1811.4",
     "extensions": [
         "kymaintegrationbackoffice",
+        "kymaintegrationservices",
         "kymaintegrationsampledata",
         "assistedserviceyprofileaddon",
         "assistedservicecustomerinterestsaddon",
